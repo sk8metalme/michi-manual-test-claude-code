@@ -2,9 +2,12 @@ package com.example.calculator.model;
 
 import java.math.BigDecimal;
 
+import com.fasterxml.jackson.annotation.JsonInclude;
+
 /**
  * 式評価レスポンスモデル
  */
+@JsonInclude(JsonInclude.Include.NON_NULL)
 public class EvaluationResponse {
 
     private BigDecimal result;
