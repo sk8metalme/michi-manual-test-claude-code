@@ -1,0 +1,18 @@
+{
+  "projectId": "michi-manual-test-claude-code",
+  "projectName": "claudeテスト",
+  "language": "ja",
+  "jiraProjectKey": "PC",
+  "confluenceLabels": [
+    "project:michi-manual-test-claude-code",
+    "service:code"
+  ],
+  "status": "active",
+  "team": [],
+  "stakeholders": [
+    "@企画",
+    "@部長"
+  ],
+  "repository": "https://github.com/sk8metalme/michi-manual-test-claude-code",
+  "description": "claudeテストの開発"
+}
