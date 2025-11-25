@@ -37,7 +37,10 @@
         </module>
         <module name="TypeName"/>
         <module name="MethodName"/>
-        <module name="ConstantName"/>
+        <module name="ConstantName">
+            <!-- Allow 'logger' and 'log' as conventional names -->
+            <property name="format" value="^([A-Z][A-Z0-9]*(_[A-Z0-9]+)*|log(ger)?)$"/>
+        </module>
         <module name="LocalVariableName"/>
         <module name="MemberName"/>
         <module name="ParameterName"/>
