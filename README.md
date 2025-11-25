@@ -1,0 +1,1 @@
+# michi-manual-test-claude-code
