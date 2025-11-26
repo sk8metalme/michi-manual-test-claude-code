@@ -1,0 +1,110 @@
+{
+  "feature_name": "java-calculator-webapp",
+  "created_at": "2025-11-25T01:34:21Z",
+  "updated_at": "2025-11-25T04:10:00Z",
+  "language": "ja",
+  "phase": "tasks-generated",
+  "approvals": {
+    "requirements": {
+      "generated": true,
+      "approved": true
+    },
+    "design": {
+      "generated": true,
+      "approved": true
+    },
+    "tasks": {
+      "generated": true,
+      "approved": false
+    }
+  },
+  "ready_for_implementation": false,
+  "confluence": {
+    "spaceKey": "MICHI",
+    "requirements": {
+      "pageId": "49053700",
+      "url": "https://0kuri0n.atlassian.net/wiki/spaces/Michi/pages/49053700/claude+java-calculator-webapp",
+      "title": "[claudeテスト] java-calculator-webapp 要件定義"
+    },
+    "requirementsPageId": "49053700",
+    "requirementsUrl": "https://0kuri0n.atlassian.net/wiki/spaces/Michi/pages/49053700/claude+java-calculator-webapp"
+  },
+  "milestones": {
+    "requirementsCompleted": true,
+    "requirements": {
+      "completed": true
+    },
+    "designCompleted": true,
+    "design": {
+      "completed": true
+    },
+    "jiraSyncCompleted": true
+  },
+  "lastUpdated": "2025-11-25T08:04:09.255Z",
+  "testTypeSelection": {
+    "completed": true,
+    "selectedTypes": [
+      "unit",
+      "lint",
+      "build",
+      "integration",
+      "e2e",
+      "performance",
+      "security"
+    ],
+    "selectedAt": "2025-11-25T03:35:07.144Z"
+  },
+  "testSpecification": {
+    "completed": true,
+    "generatedAt": "2025-11-25T03:35:36.298Z",
+    "testTypes": [
+      "unit",
+      "lint",
+      "build",
+      "integration",
+      "e2e",
+      "performance",
+      "security"
+    ],
+    "generatedSpecs": [
+      "unit",
+      "integration",
+      "e2e",
+      "performance",
+      "security"
+    ]
+  },
+  "environmentSetup": {
+    "completed": true,
+    "language": "Java",
+    "ciTool": "GitHub Actions",
+    "dockerCompose": true,
+    "completedAt": "2025-11-25T08:04:09.253Z"
+  },
+  "jira": {
+    "projectKey": "PC",
+    "epicKey": "PC-55",
+    "epicUrl": "https://0kuri0n.atlassian.net/browse/PC-55",
+    "storyKeys": [
+      "PC-56",
+      "PC-57",
+      "PC-58",
+      "PC-59",
+      "PC-60",
+      "PC-61",
+      "PC-62",
+      "PC-63",
+      "PC-64",
+      "PC-65",
+      "PC-66",
+      "PC-67",
+      "PC-68",
+      "PC-69",
+      "PC-70",
+      "PC-71",
+      "PC-72",
+      "PC-73",
+      "PC-74"
+    ]
+  }
+}

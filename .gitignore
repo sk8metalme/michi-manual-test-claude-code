@@ -1,0 +1,37 @@
+
+# Backup Files
+# Exclude backup files created by ai-agent-setup scripts
+*.backup.*
+*.bak
+*~
+.#*
+#*#
+
+# Gradle
+.gradle/
+build/
+bin/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+.vscode/
+.cursor/
+*.iml
+*.ipr
+*.iws
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Temporary Files
+docs/tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
